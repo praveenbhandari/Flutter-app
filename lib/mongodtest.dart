@@ -13,7 +13,7 @@ import 'package:mongo_dart/mongo_dart.dart';
     var upload=firebase_test.a;
    // print("got ${upload}");
 
-    var db = await Db.create( "mongodb+srv://praveen:praveen@fluttertest.y9rm6.mongodb.net/flutter_test?retryWrites=true&w=majority");
+    var db = await Db.create( "mongodb+srv:..............");
 
     await db.open();
     print("done");
